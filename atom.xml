@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dustin's Blog]]></title>
+  <title><![CDATA[Dustin's Blog (test change)]]></title>
   <link href="http://dtrodrigues.github.com/atom.xml" rel="self"/>
   <link href="http://dtrodrigues.github.com/"/>
-  <updated>2012-12-30T16:40:39-08:00</updated>
+  <updated>2012-12-30T17:20:53-08:00</updated>
   <id>http://dtrodrigues.github.com/</id>
   <author>
     <name><![CDATA[Dustin Rodrigues]]></name>
